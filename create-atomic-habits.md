@@ -1,24 +1,27 @@
 # Create atomic habits to become a better developer
 
-Natan
-20 years
+by Natan Silnitsky
 
-Dave : no winner for decades, then success
+Starting point:
+- Dave : no winner for decades, then success
+
+How did they won? 
+
 Accumulation of tiny achievements
-
-most confortable seat
-…
-Small challenges
+- most comfortable seat
+- small challenges
 
 What do you want to be ?
 
-> Avoid goals, prefer system.
+> **Avoid goals, prefer system.**
 
 Improve your system of habits
 
-Good dev habits :
-learn new skills
-focus
+Some habits you may want to develop as a Developer:
+- learn new skills
+- focus
+
+## How to create an habit?
 
 4 stages of habits / rules
 - Cue : make it obvious
@@ -26,36 +29,40 @@ focus
 - Response : make it easy ; 1 chapter
 - Reward : satisfying ; share w/ colleagues, track your habits
 
-Example, learning :
-
 Tips:
 - Stack your habits
-- Pair the context
+- Pair the context (associate an environment with an activity)
 - Two minutes rule : stay below that point it will look like working.
-- Reduce frictions : download your podcast in advance so you can listen them online
-- Design your environment to make it easy : keep your book close, put your phone far
+- Reduce frictions : download your podcast in advance so you can listen them offline when commuting
+- Design your environment to make it easy : keep your book close to you, put your phone far ...
 
+## How to break an habit?
 
 Ok, now, how to break a bad habit ? Flip the image : 
-- make it invisible, unattractive, difficult, unsatisfying.
+- make it invisible
+- make it unattractive
+- make it difficult
+- make it unsatisfying
 
 Tips:
 - Reduce exposure to bad habits
 - Highlight the benefits of avoiding a bad habit
-- A commitment device : make choice that prevent you doing some things.
-Accountably partner, someone you don’t want to disappoint
-Habit contract : penalty, share with the world
+- Commitment device: make choice that prevent you doing some things.
+- Accountable partner: someone you don’t want to disappoint
+- Habit contract: penalty, share with the world
 
-Takeaway :
-setting goal isn’t enough ; work on your system
-tiny habits over long period lead to big gains
+## Conclusion
 
-Thought :
-grid simple to use in coaching, very interesting. Do you want us to work on your system ? An habit you want to break ? An habit you want to create ?
+**Takeaway**:
+- setting goal isn’t enough ; work on your system
+- tiny habits over long period lead to big achievements
 
-Resource
-Atomic habits
-https://fr.slideshare.net/NatanSilnitsky/create-atomic-habits-to-become-a-better-developer
+**Thoughts**:
+- grid simple to use in coaching, very interesting. 
+- Do you want us to work on your system ? An habit you want to break ? An habit you want to create ?
 
-Todo :
-take time to think about habits I want to set up. List them. Prioritize them.
+**Resource**:
+- https://fr.slideshare.net/NatanSilnitsky/create-atomic-habits-to-become-a-better-developer
+
+**Todo**:
+- take time to think about habits I want to set up. List them. Prioritize them.

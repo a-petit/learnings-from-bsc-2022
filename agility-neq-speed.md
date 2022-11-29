@@ -6,26 +6,28 @@ Developers are:
 - problem solver 
 - creative 
 
-The way it ended up being measured 
-You cannot « do » agility 
+Speed = The way it ended up being measured: speed
 
-Agile is an adjective, an observable property
-You can do scrum, you can do kanban, but you cannot "do" agility. 
-Agile is more a philosophy, an attitude.
+You cannot « do » agility
+- Agile is an adjective, an observable property.
+- You can do scrum, you can do kanban, but you cannot "do" agility. 
+- Agile is more a philosophy, an attitude.
 
-Also, this evolves.
-Agile in 2002 != agile in 2022
+Also, this evolves: agile in 2002 != agile in 2022
 
-Every word as an origin story. Everywhere, we talk about productivity. "Productive" comes the manufacture, the factory. In a factory, it's easy to measure how much product you produce each day. It's a metaphor. 
+Every word as an origin story:
+- Everywhere, we talk about productivity. 
+- "Productive" comes the manufacture, the factory. 
+- In a factory, it's easy to measure how much product you produce each day. It's a metaphor. 
 
 What can we measure ?
 
-- Lines of code ? The less you have for same functionalities, often the better! LoC is a terrible measure of productivity. And if you want to measure my productivity through  this indicator, I can be very creative to satisfy you! 
-- Story points ? It's an arbitrary measure, and it has drawbacks. Estimations often turns to be negotiation. It becomes currency (w/ value not comparable between teams), bring pressure, … Also, we often end up linking between story points and days of work.
-- A feature is very variable thing, it's hard to measure
-- Velocity is a mono-dimensional thing against time.
+- **Lines of code** ? The less you have for same functionalities, often the better! LoC is a terrible measure of productivity. And if you want to measure my productivity through  this indicator, I can be very creative to satisfy you! 
+- **Story points** ? It's an arbitrary measure, and it has drawbacks. Estimations often turns to be negotiation. It becomes currency (w/ value not comparable between teams), bring pressure, … Also, we often end up linking between story points and days of work.
+- A **feature** is very variable thing, it's hard to measure
+- **velocity** is a mono-dimensional thing against time.
 
-Using indicators as goals is a tragedy. There is a lot of tricks to cheat.
+> Using indicators as goals is a tragedy. There is a lot of tricks to cheat.
 
 Agile can be applied to a codebase to describe it's responsiveness, the fact it is easy to change.
 

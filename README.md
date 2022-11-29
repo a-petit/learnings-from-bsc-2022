@@ -1,5 +1,28 @@
 # Learnings from build stuff 2022
 
+## Key takeaways
+
+- Code is a constrained form of literature, optimize it for readability. 
+- Doing agile makes you busy. Being agile makes you less busy
+- Mental illness is an important issue in the Tech industry ; prioritize having fun
+- Changing discipline is a big challenge, it brings you depth and can shape you for staff+ positions.
+- Perception is matter of brain, not the eyes ; Don't be driven by fear ; Even if you are right, if you cannot exercise social intelligence, you will not be able to deliver your message
+- There is no work like early work ; Don’t publish interfaces prematurely ; it’s not a problem of flow but of data structure.
+- Two golden rules of intention in tests: 1) test the outcomes (what, not how ☠️) 2) test capabilities rather than data
+- Be very conservative with what you put in an api. In production, people use them in « surprising »  and unexpected way.
+- Design for disability may encounter global success ; Ask yourself: who am I intentionally excluding? who am I unintentionally excluding?
+- Avoid goals, prefer system ; tiny habits over a long period lead to big achievements
+- Don't compare yourself with others ; compete with you ; figure what works for you for learning ; pick the right learning curve ; share what you do, tell what you want ; find a balance
+
+## To do / experiment
+
+- Daily retro at the end of the day
+- Realize Diamond kata with the two approaches presented by David Whitney
+- Try refactoring Roman Numeral code presented by Kevlin
+- Gather mappers in a dedicated class
+- Write a post about "figuring what works for you (for learning)"
+- Take time to craft a tiny habit, propose the workshop in coaching sessions
+
 ## Talks
 
 ### Appetizer
@@ -30,17 +53,19 @@
 
 - [How to design for 8 Billion Humans](design-for-8B-people.md) by [Dona Sarkar](https://www.linkedin.com/in/donasarkar/)
 - Architectural Kata workshop by [Ted Neward](https://www.linkedin.com/in/tedneward/) 
-- [Create atomic habits to become a better developer](create-atomic-habits.md)
-- [The Mario Kart guide to building a career](mario-kart-guide-at-building-your-career.md)
+- [Create atomic habits to become a better developer](create-atomic-habits.md) by [Natan Silnitsky](https://www.linkedin.com/in/natansilnitsky/)
+- [The Mario Kart guide to building a career](mario-kart-guide-at-building-your-career.md) by [Hannes Lowette](https://www.linkedin.com/in/hanneslowette/)
 
 ## About organisation
+
 - Bingo with stamp when you visit partners is interesting
 - Speakers create opportunity to talk with them (try that and give me your feedback, open to questions, ...)
-
-## Key takeaways
-- Code is a constrained form of literature, optimize it for readability.
-
+- I would have expected more workshops
+- It would have be great to gather everybody for the closing
 
 ## Book recommendations
+
 - Your Code as a Crime Scene, Adam Tornhill
 - TDD by example, Kent Beck
+- 97 things developer should know
+- Atomic Habits

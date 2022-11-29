@@ -1,20 +1,24 @@
 # Art of auth for webapp
 
+
+When it comes to realize auth, we all follow the same path:
+- search on web
+- do the rest of fucking stuff
+- Nobody understand what he is doing
+
 Nick craver tweet auth code
 
-Problem #1
-search on web
-do the rest of fucking stuff
-Nobody understand what he is doing
+## Intro to standards
 
-Intro to standards
+- Digital identity : set of attributes that define user
+- Authentication : prove who you are
+- Authorization : grant access
 
-Digital identity : set of attributes that define user
-Authentication : prove who you are
-Authorization : grant access
+## Oauth 2.0
+What problem it solve ? 
+- Before : when using app that use for you on bewalf, need to share credentials. 
+- Baaaad ! + way too much access
 
-Oauth 2.0
-What problem it solve ? Before : when using app that use for you on bewalf, need to share credentials. Baaaad ! + way too much access
 Open standards for performing delegated authorization.
 Authorization server : provide endpoints , generate tokens
 
@@ -22,7 +26,7 @@ Oauth encoutered great success.
 
 Confused Deputy problem : oauth purpose handle Authorization but not authentication.
 
-Oauth : demegated autho
+Oauth : delegated autho
 Openid connect : authentication
 
 Id tokens
