@@ -2,20 +2,30 @@
 
 by Natan Silnitsky
 
+![](files/nathan_s.jpg)
+
 Starting point:
-- Dave : no winner for decades, then success
+- 1903 - 2002: No British winner of the Tour de France
+- 2013 - 2017: w/ Dave Brailsford, 5 out of 6 wins 
 
 How did they won? 
 
 Accumulation of tiny achievements
 - most comfortable seat
 - small challenges
+- ...
 
-What do you want to be ?
+# Setting goals isn't enough
 
-> **Avoid goals, prefer system.**
+![](files/avoid_goals_prefer_system.png)
 
-Improve your system of habits
+1. What do you want to be? What do you want to achieve?
+2. Improve your system of habits
+
+
+> The one percent principle: 
+> 
+> ![](files/one_percent_principle.jpg)
 
 Some habits you may want to develop as a Developer:
 - learn new skills
@@ -26,8 +36,8 @@ Some habits you may want to develop as a Developer:
 4 stages of habits / rules
 - Cue : make it obvious
 - Craving : make it attractive
-- Response : make it easy ; 1 chapter
-- Reward : satisfying ; share w/ colleagues, track your habits
+- Response : make it easy ;
+- Reward : satisfying (share w/ colleagues, track your habits, ...)
 
 Tips:
 - Stack your habits
@@ -58,11 +68,10 @@ Tips:
 - tiny habits over long period lead to big achievements
 
 **Thoughts**:
-- grid simple to use in coaching, very interesting. 
+- The framework is simple to use in coaching, very interesting. 
 - Do you want us to work on your system ? An habit you want to break ? An habit you want to create ?
 
 **Resource**:
 - https://fr.slideshare.net/NatanSilnitsky/create-atomic-habits-to-become-a-better-developer
-
-**Todo**:
-- take time to think about habits I want to set up. List them. Prioritize them.
+- James Clear - Atomoc Habits book: https://www.amazon.fr/Atomic-Habits-Proven-Build-Break/dp/0735211299
+- James Clear free course: [30 Days to Better Habits: A simple step-by-step guide for forming habits that stick.](https://jamesclear.com/)

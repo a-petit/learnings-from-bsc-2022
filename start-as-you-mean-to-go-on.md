@@ -2,17 +2,11 @@
 —
 by Dan North
 
+![](files/kdan_north.jpg)
+
 Architecting a new product
 
 Challenge when you start a new thing in a big organisation
-
-What do you think about when you start a new project ?
-- which os
-- Which db
-- What programming language
-- What is the big picture architecture ?
-
-What happens to software project ? Multiple teams pushing towards « on time » « and «on budget »
 
 ## Guidance
 
@@ -28,6 +22,8 @@ You start with alignment:
 - which technology have an impact downstream ? 
 
 > **What happens to api in production ? People use them in « surprising »  and unexpected way.**
+
+https://twitter.com/TiredActor/status/1609641593836822530
 
 ## Functionality
 

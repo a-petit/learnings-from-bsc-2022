@@ -1,8 +1,10 @@
 # Refactoring is not just clickbait
 
-Stonehenge stone circle
-Typical legacy system
-We don’t no why they built it
+by Kevlin Henney
+
+![](files/kevlin_henney.jpg)
+
+Stonehenge stone circle = Typical legacy system. We don’t no why they built it
 
 Among the more common misinterpretations of what refactoring is:
 - reducing refactoring to renaming of variable
@@ -52,9 +54,11 @@ Dan North one : code in the language of the domain.
 
 Many refactoring are about adding intention to the code.
 
-## Public apis
+## The case of public apis
 
-You cannot refactor everything - especially public apis! Public apis are like diamond. Forever.
+You cannot refactor everything - especially public apis! 
+
+Public apis are like diamond: Forever.
 
 > **Don’t publish interfaces prematurely.**
 
@@ -76,7 +80,8 @@ We do a terrible usage of "Extract Class"
 
 Some refactorings are underestimated
 - Inline: to regroup things
-- "Replace": control with pipeline, switch with polymorphism
+- Replace control with pipeline
+- Replace switch with polymorphism
 - Delete: One common mistake is that we tend to think additively.
 
 ## It's not a flow problem, but a data structure one
@@ -90,7 +95,7 @@ Pascal was reputed good language, with good design, good practice. But example y
 
 > **Sometime, it’s not a problem of flow but of data structure.**
 
-C# example. Why doing something when you can be something?
+C# example. Why **doing** something when you can **be** something?
 
 ## Conclusion
 

@@ -2,18 +2,21 @@
 
 By Hannes Lowette
 
+![](files/mario_kart.jpg)
+
 Has been crafting career during past years through coaching etc.
 
 We often associate career to success.
 
 ## Don't compare yourself with others
 
-- Me : as top 1 (enumerates you achievements)
-- Me : as last one (enumerate your failures)
+Different perspectives:
+- Me : as top 1 (enumerates his achievements)
+- Me : as last one (enumerate his failures)
 
 One image is very successful. Other very less
 
-We share mostly one side (the successful one).
+On social media, we share mostly one side (the successful one).
 
 Compare to heroes is unfair and disappointing
 
@@ -80,12 +83,10 @@ Hardware : fuck buy a good computer.
 Most people are not comfortable with this aspect at the beginning.
 
 - Make sure people know what you do.
-- Tell people what you want
-- Most people will in fact help you.
+- Tell people what you want: most people will in fact help you.
 - Give people opportunity to help you. This will also engage you.
 
 Impostor syndrome is very common.
-
 - When you are given an opportunity - it may be because someone trust you and you skills.
 - To learn more about this syndrome, great talks has been given.
 
@@ -104,4 +105,8 @@ Find a balance.
 
 # Conclusion
 
-Don't compare yourself with others ; compete with you ; figure what works for you for learning ; pick the right learning curve ; share what you do, tell what you want ; find a balance
+- Don't compare yourself with others, compete with you 
+- figure what works for you for learning
+- pick the right learning curve
+- share what you do, tell what you want 
+- find a balance

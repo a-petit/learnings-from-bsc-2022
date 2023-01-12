@@ -2,7 +2,6 @@
 
 by David Whitney
 
-
 How to write tests that survive?
 
 ![](files/unit-testing-iceberg.png)
@@ -25,7 +24,7 @@ How to name a test ?
 - under which conditions, 
 - and what your expectations are
 
-> There is debates about class in js that are not. We don’t care. Just organize your code in a comprehensive fashion.
+> There is debates about class in js that are not ... We don’t care. Just organize your code in a comprehensive fashion.
 
 
 TDD?
@@ -50,7 +49,7 @@ Recommendations:
 - use AAA pattern
 - Use white lines to separate arrange, act, assert
 - No magic number - it doesn't convey your intention. You should optimize things for the reader. When we read, everything depends on the context.
-- Hides unnecessary data (*). Include ONLY the data that impact the test
+- Hides unnecessary data. Include ONLY the data that impact the test
 - Don’t repeat test data, use some builders
 - Update your tests with last language features so it doesn't looks deprecated
 - Use test data builders
@@ -67,11 +66,11 @@ Two golden rules of intention
     <img src="files/testing-capabilities.png" width="300px">
 </p>
 
-To go further:
-- contract testing
-- consumer driven contract
-
 # My takeaways
 
 - don't use magic variables in the tests
 - try the diamond kata the way he suggest
+
+# Other Resources 
+
+- Unit Testing Principles, Practices, and Patterns by Vladimir Khorikov: [book](https://www.amazon.com/Unit-Testing-Principles-Practices-Patterns/dp/1617296279), [Talk for Software Craftsmanship Luxembourg](https://www.youtube.com/watch?v=k_ItB5btREU), 

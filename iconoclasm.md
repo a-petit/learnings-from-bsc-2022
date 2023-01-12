@@ -1,10 +1,16 @@
 # Iconoclasm
 
+by Ted Neward
+
+![](files/ted_neward.jpg)
+
 Back in the old days, formula was quite simple: study at university, find a job, ...
 
 Today, things are not that obvious. 
 
-China and india produce lot of engineers and everyone is worrying about outsourcing, but it's the wrong thing to worry.
+China and india produce lot of engineers and everyone is worrying about outsourcing.
+
+But it's the wrong thing to worry about.
 
 Kasparov, great chess champion, defeated by Deep blue. And developers start feeling this pinch.
 
@@ -29,10 +35,10 @@ Something very curious is that if you flip the image, illusion disappear. We are
 
 Dale Chihuly become very successful after he lost an eye. He was no more able to do symmetric stuff
 
+![](files/dale-chihuly.jpg)
 
 ## Don’t be driven by fear
 
-![](files/dale-chihuly.jpg)
 
 The Dixie Chicks: 
 - The publicly criticized Bush and invasion of Iraq during a concert in London

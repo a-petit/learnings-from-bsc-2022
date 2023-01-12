@@ -1,5 +1,7 @@
 # Learnings from build stuff 2022
 
+![](files/build_stuff2022.png)
+
 Build Stuff is an annual software development conference that takes place in Vilnius, Lithuania. The conference brings together developers, engineers, and other tech professionals to share knowledge, learn about new technologies and best practices, and network with their peers. The conference features a variety of talks and workshops covering a range of topics, including software development, agile methodologies, devops, and more.
 
 Overall, the Build Stuff conference aims to provide attendees with the tools and knowledge they need to build better software and improve their craft as developers. It is a great opportunity for professionals in the tech industry to learn from experts, network with their peers, and stay up-to-date with the latest developments in the field.
@@ -17,13 +19,13 @@ The talks I've attended were focused on **Software development**, agile methodol
 - [Doing agile makes you busy. Being agile makes you less busy](agility-neq-speed.md)
 - [Mental illness is an important issue in the Tech industry ; prioritize having fun](health--most-important-tech-tool.md)
 - [Changing discipline is a big challenge, it brings you depth and can shape you for staff+ positions.](switching-discipline-as-a-tech-lead.md)
-- Perception is matter of brain, not the eyes ; Don't be driven by fear ; Even if you are right, if you cannot exercise social intelligence, you will not be able to deliver your message
-- There is no work like early work ; Don’t publish interfaces prematurely ; it’s not a problem of flow but of data structure.
-- Two golden rules of intention in tests: 1) test the outcomes (what, not how ☠️) 2) test capabilities rather than data
-- Be very conservative with what you put in an api. In production, people use them in « surprising »  and unexpected way.
-- Design for disability may encounter global success ; Ask yourself: who am I intentionally excluding? who am I unintentionally excluding?
-- Avoid goals, prefer system ; tiny habits over a long period lead to big achievements
-- Don't compare yourself with others ; compete with you ; figure what works for you for learning ; pick the right learning curve ; share what you do, tell what you want ; find a balance
+- [Perception is matter of brain, not the eyes ; Don't be driven by fear ; Even if you are right, if you cannot exercise social intelligence, you will not be able to deliver your message](iconoclasm.md)
+- [There is no work like early work ; Don’t publish interfaces prematurely ; it’s not a problem of flow but of data structure.](refectoring-is-not-just-a-clickbait.md)
+- [Two golden rules of intention in tests: 1) test the outcomes (what, not how ☠️) 2) test capabilities rather than data](writing-tests-that-dont-sucks.md)
+- [Be very conservative with what you put in an api. In production, people use them in « surprising »  and unexpected way.](start-as-you-mean-to-go-on.md)
+- [Design for disability may encounter global success ; Ask yourself: who am I intentionally excluding? who am I unintentionally excluding?](design-for-8B-people.md)
+- [Avoid goals, prefer system ; tiny habits over a long period lead to big achievements](create-atomic-habits.md)
+- [Don't compare yourself with others ; compete with you ; figure what works for you for learning ; pick the right learning curve ; share what you do, tell what you want ; find a balance](mario-kart-guide-at-building-your-career.md)
 
 ## To do / experiment
 
@@ -79,4 +81,4 @@ The talks I've attended were focused on **Software development**, agile methodol
 - Your Code as a Crime Scene, Adam Tornhill
 - TDD by example, Kent Beck
 - 97 things developer should know
-- Atomic Habits
+- Atomic Habits, James Clear

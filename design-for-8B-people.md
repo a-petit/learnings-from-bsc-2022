@@ -1,11 +1,10 @@
 # Design for 8 billion humans
-—
 
 by Dona Sarkar (Microsoft)
 
-BSC is my favorite conference. Focus on both mindfulness and health, architecture and tech stuff, agility. It's not usual to have those 3 pillars.
+![](files/dona_sarkar.jpg)
 
-Turn on live-captions when you present
+Tip #1 : Turn on live-captions when you present
 - Lot of people loss earring
 - Some people are used to when they watch series and feel more comfortable this way
 
@@ -20,11 +19,13 @@ Design for disability may encounter global success :
 - there is a lot of examples of inventions from people with disability that reached global success
 
 For wild products:
-- test accessibility at design stage. 
+- test accessibility at design stage. **The later a bug / issue is caught, the more expensive it cost**
 - You may discover lot of surprising issues due to culture, skin color, head size, age, economic condition, tech literacy
+
+# Takeaway
+
+Design for disability may encounter global success.
 
 Ask yourself:
 - who am I intentionally excluding ?
 - who am I unintentionally excluding ?
-
-**The later a bug / issue is caught, the more expensive it cost**
