@@ -1,8 +1,10 @@
-# Software as literature
+# Software as literature (draft)
 
 by David Whitney
 
-Intentional code
+![](files/david_whitney.jpg)
+
+**Intentional code**
 
 Software is a constrained form of literature that communicates concepts from programmer to programmer and eventually gets interpreted by a computer.
 
@@ -20,7 +22,10 @@ Code has rhythm.
 
 Software should be at most as complex as the problem space it habits, and no greater
 
-Design in its place and time: le baladeur K7 de Sony a un design incroyable, pour un baladeur K7. Mais ce design ne fais plus ens aujourd'hui. C'est là même chose pour certains design patterns, ils sont à remettre dans leur contexte et à confronter au problème qu'on cherche à résoudre.
+Design in its place and time: 
+- le baladeur K7 de Sony a un design incroyable, pour un baladeur K7. 
+- Mais ce design ne fais plus ens aujourd'hui. 
+- C'est là même chose pour certains design patterns, ils sont à remettre dans leur contexte et à confronter au problème qu'on cherche à résoudre.
 
 Structural design is often too big.
 

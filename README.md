@@ -13,8 +13,8 @@ The talks I've attended were focused on **Software development**, agile methodol
 
 ## Key takeaways
 
-- Code is a constrained form of literature, optimize it for readability. 
-- Doing agile makes you busy. Being agile makes you less busy
+- [Code is a constrained form of literature, optimize it for readability.](software-as-literature.md) 
+- [Doing agile makes you busy. Being agile makes you less busy](agility-neq-speed.md)
 - Mental illness is an important issue in the Tech industry ; prioritize having fun
 - Changing discipline is a big challenge, it brings you depth and can shape you for staff+ positions.
 - Perception is matter of brain, not the eyes ; Don't be driven by fear ; Even if you are right, if you cannot exercise social intelligence, you will not be able to deliver your message

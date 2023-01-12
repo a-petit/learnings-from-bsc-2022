@@ -1,12 +1,10 @@
 # Agility != speed 
 
-Kevlin Henney
+by Kevlin Henney
 
-Developers are:
-- problem solver 
-- creative 
+![](files/kevlin_henney.jpg)
 
-Speed = The way it ended up being measured: speed
+Speed = The way it ended up being measured
 
 You cannot « do » agility
 - Agile is an adjective, an observable property.
@@ -27,7 +25,7 @@ What can we measure ?
 - A **feature** is very variable thing, it's hard to measure
 - **velocity** is a mono-dimensional thing against time.
 
-> Using indicators as goals is a tragedy. There is a lot of tricks to cheat.
+> Using indicators as goals is a tragedy. There is a lot of tricks to cheat. (#Goodhart's Law)
 
 Agile can be applied to a codebase to describe it's responsiveness, the fact it is easy to change.
 
@@ -43,11 +41,13 @@ How do measure ability to respond to change ? By looking at the capacity to chan
 Conclusion: the secret = ability to slow down 
 
 
-## 
+## Links
 - https://www.youtube.com/watch?v=kmFcNyZrUNM
 
 ## My thought: 
 - I mostly agree with the mindset
-- The comparison with manufacturer looks simplistic to me. Even in a manufacture, you want to measure defects (there is quality challenges), health of the workers is crucial (when this is a critical resource).
+- The comparison with manufacturer looks simplistic. Even in a manufacture, you want to measure defects (there is quality challenges), health of the workers is crucial (when this is a critical resource).
 - Have you ever tried driving a car that never decelerate ? 
 - In a nutshell: we often focus on velocity, pay attention to acceleration.
+- Running in the wrong direction can make you lose a lot of time!
+- Sometime, the fastest way of doing something is not to do it
