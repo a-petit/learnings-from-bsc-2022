@@ -1,5 +1,16 @@
 # Learnings from build stuff 2022
 
+Build Stuff is an annual software development conference that takes place in Vilnius, Lithuania. The conference brings together developers, engineers, and other tech professionals to share knowledge, learn about new technologies and best practices, and network with their peers. The conference features a variety of talks and workshops covering a range of topics, including software development, agile methodologies, devops, and more.
+
+Overall, the Build Stuff conference aims to provide attendees with the tools and knowledge they need to build better software and improve their craft as developers. It is a great opportunity for professionals in the tech industry to learn from experts, network with their peers, and stay up-to-date with the latest developments in the field.
+
+Build Stuff 2022 in a few numbers: 
+- 3 days of conferences
+- 6 stages
+- +80 sessions
+
+The talks I've attended were focused on **Software development**, agile methodologies, leadership and personal growth.
+
 ## Key takeaways
 
 - Code is a constrained form of literature, optimize it for readability. 
@@ -18,7 +29,7 @@
 
 - Daily retro at the end of the day
 - Realize Diamond kata with the two approaches presented by David Whitney
-- Try refactoring Roman Numeral code presented by Kevlin
+- Try refactoring Roman Numeral code presented by Kevlin Henney
 - Gather mappers in a dedicated class
 - Write a post about "figuring what works for you (for learning)"
 - Take time to craft a tiny habit, propose the workshop in coaching sessions
