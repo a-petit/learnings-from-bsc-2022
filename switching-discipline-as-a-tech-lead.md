@@ -2,6 +2,8 @@
 
 by Samuel Giddins
 
+![](files/samuel_giddins.jpg)
+
 His story, of being Tech lead of a team when you have to learn a new technique.
 
 ## What is a tech lead ?
@@ -27,7 +29,6 @@ What is a discipline ?
 When do actually people switch ?
 - Sometime at the beginning (path error, ...)
 - Sometime when a new discipline emerges and some jump in
-
 
 Note: leaving make room for other to grow
 
@@ -60,8 +61,7 @@ Pushing best practices
 - Now, I’m qualified for so many types of roles.
 - I proved that I can learn new things
 
-If interested in learning and growing on the staff plus stack
-Yes, definitively it is worth it.
+If interested in learning and growing on the staff plus stack: Yes, definitively it is worth it.
 
 ## Takeaway
 

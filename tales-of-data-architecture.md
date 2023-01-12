@@ -1,5 +1,8 @@
 # Tales of data architecture
-—
+
+by Josef Goldstein
+
+![](files/josef_goldstein.jpg)
 
 > BigData in your job title = 💰
 
@@ -76,3 +79,9 @@ Once you have thousands of tables, how to know where to find it? It open the wil
 
 Presented architecture is a sustainable one - but complex. Answer is up to you and your business, your context, your scale.
 If you are going to build your data architecture, think about what is your next step.
+
+## Takeaways 
+- Presented architectures are sustainable
+- They have grown in complexity with evolution of usages
+- When you take the story from the beginning, all makes sens!
+ 

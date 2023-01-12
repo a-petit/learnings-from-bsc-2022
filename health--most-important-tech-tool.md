@@ -2,9 +2,11 @@
 
 by Cassandra Faris
 
+![](files/cassandra_faris_1.jpg)
+
 # Intro
 
-Impact of unhealthy habits can be both physical and mental.
+Impacts of unhealthy habits can be both physical and mental.
 
 Physical:
 - weight gain
@@ -19,9 +21,13 @@ Mental
 
 —-
 
-It has to do with lifestyle
+It has to do with lifestyle.
+
+And it impact your career.
 
 > Low productivity + low moral => low career.
+
+## How to flip the loop
 
 3 pillars:
 - food : not much, mostly plants
@@ -51,30 +57,24 @@ Physical and mental health issues increase each other.
 
 We estimate that 1/5 people suffer mental illness. But Recovery is possible
 
-1. Diagnostics:
-   - excessive worrying
-   - avoiding social situations
-   - changes in biogolical habits
-   - substance abuse
-
 How to treat mental illness?
 1. diagnosis
 2. knowledge
 3. supporting system
 
-Why stigma ?
-- mental illness is often invisible
-- discussing feelings is hard
+Diagnostics:
+- excessive worrying
+- avoiding social situations
+- changes in biogolical habits
+- substance abuse
 
-Overcoming the stigma
-- info
-- talk about it
-- listen
-- law protect disability often
+Supporting system : 
+- Why stigma ? mental illness is often invisible + discussing feelings is hard
+- Overcoming the stigma: be informed, talk about it, listen, law protect disability often
 
 > **In tech 2/5 are concerned.**
 
-Self caring
+Self caring:
 - buy flowers sometime 💐
 - journaling
 - say no
